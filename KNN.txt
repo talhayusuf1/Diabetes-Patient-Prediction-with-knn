@@ -1,0 +1,4 @@
+Daha önce elde edilen noktalara bakarak yenş bir nokta geldiği zaman onun hangi grupta
+olduğunu bulmak için kullanılır.
+Mesela bir alaanın içinde 2 ucgen bir kare oldugunu dusnelim eğerki yeni bir sey geşlecek 
+olursa onun üzgen olacagını tahhmşn edeer makine
